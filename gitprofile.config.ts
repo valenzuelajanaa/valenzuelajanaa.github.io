@@ -126,16 +126,7 @@ const CONFIG = {
       to: '2020',
     },  ],
   publications: [
- {
-      title: '',
-      conferenceName: '',
-      journalName: '',
-      authors: '',
-      link: '',
-      description:
-        '',
-    },
-    
+    {
       title: 'Publication Title',
       conferenceName: 'Conference Name',
       journalName: '',
