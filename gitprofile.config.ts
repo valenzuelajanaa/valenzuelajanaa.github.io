@@ -85,17 +85,17 @@ const CONFIG = {
   experiences: [
     {
       company: 'CSU Stanislaus',
-      position: 'Assistant Professor',
-      from: 'August 2022',
+      position: 'Graduate Student Instructor',
+      from: 'August 2023',
       to: 'Present',
       companyLink: 'https://www.csustan.edu',
     },
     {
-      company: 'CSU Fresno',
-      position: 'Assistant/Associate Professor',
-      from: 'August 2015',
-      to: 'August 2022',
-      companyLink: 'https://www.fresnostate.edu',
+      company: 'UC Davis California Animal Health & Food Saftey',
+      position: 'Bacteriologist',
+      from: 'August 2023',
+      to: 'Present',
+      companyLink: '',
     },
   ],
   certifications: [
@@ -111,17 +111,22 @@ const CONFIG = {
       institution: 'CSU Stanislaus',
       degree: 'MS',
       from: '2023',
-      to: '2025',
+      to: 'Present',
     },
     {
-      institution: 'University of Texas at San Antonio',
-      degree: 'PhD',
-      from: '2007',
-      to: '2012',
+      institution: 'CSU Stanislaus',
+      degree: 'BS',
+      from: '2021',
+      to: '2023',
     },
-  ],
-  publications: [
     {
+      institution: 'Merced Community College',
+      degree: 'AS',
+      from: '2016',
+      to: '2020',
+    },  ],
+  // publications: [
+ // {
       title: 'Effects of short-term experimental manipulation of captive social environment on uropygial gland microbiome and preen oil volatile composition',
       conferenceName: '',
       journalName: 'Frontiers in Ecology and Evolution',
@@ -130,7 +135,7 @@ const CONFIG = {
       description:
         'Avian preen oil, secreted by the uropygial gland, is an important source of volatile compounds that convey information about the sender’s identity and quality, making preen oil useful for the recognition and assessment of potential mates and rivals. Although intrinsic factors such as hormone levels, genetic background, and diet can affect preen oil volatile compound composition, many of these compounds are not the products of the animal’s own metabolic processes, but rather those of odor-producing symbiotic microbes. Social behavior affects the composition of uropygial microbial communities, as physical contact results in microbe sharing. We experimentally manipulated social interactions in captive dark-eyed juncos (Junco hyemalis) to assess the relative influence of social interactions, subspecies, and sex on uropygial gland microbial composition and the resulting preen oil odor profiles',
     },
-    {
+    
       title: 'Publication Title',
       conferenceName: 'Conference Name',
       journalName: '',
