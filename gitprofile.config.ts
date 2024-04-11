@@ -52,13 +52,13 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Tricia Van Laar',
+    title: 'Portfolio of Alejandra Valenzuela',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'triciavanlaar',
-    twitter: 'tvanlaarmicro',
+    linkedin: '',
+    twitter: '',
     mastodon: '',
     researchGate: '',
     facebook: '',
@@ -71,9 +71,9 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://tvanlaar.github.io',
+    website: 'https://valenzuelajanaa.github.io',
     phone: '',
-    email: 'tvanlaar@csustan.edu',
+    email: 'avalenzuela13@csustan.edu',
   },
   resume: {
     fileUrl:
@@ -108,10 +108,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'CSU Fresno',
-      degree: 'MBA',
-      from: '2020',
-      to: '2024',
+      institution: 'CSU Stanislaus',
+      degree: 'MS',
+      from: '2023',
+      to: '2025',
     },
     {
       institution: 'University of Texas at San Antonio',
