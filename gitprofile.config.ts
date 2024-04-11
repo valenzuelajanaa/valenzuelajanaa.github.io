@@ -77,7 +77,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/valenzuelajanaa/gitprofile/pdf/AValenzuelaCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/valenzuelajanaa/valenzuelajanaa.github.io/blob/main/pdf/AValenzuelaCV.pdf' // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'DNA Extractions', 'Gram Staining', 'Teaching', 'Plate Streaking',
