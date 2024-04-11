@@ -125,8 +125,8 @@ const CONFIG = {
       from: '2016',
       to: '2020',
     },  ],
-  // publications: [
- // {
+  publications: [
+ {
       title: 'Effects of short-term experimental manipulation of captive social environment on uropygial gland microbiome and preen oil volatile composition',
       conferenceName: '',
       journalName: 'Frontiers in Ecology and Evolution',
