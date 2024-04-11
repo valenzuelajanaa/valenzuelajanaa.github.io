@@ -124,7 +124,8 @@ const CONFIG = {
       degree: 'AS',
       from: '2016',
       to: '2020',
-    },  ],
+    }, 
+  ],
   publications: [
     {
       title: 'Publication Title',
