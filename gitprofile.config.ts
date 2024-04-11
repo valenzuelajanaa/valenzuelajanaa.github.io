@@ -125,7 +125,7 @@ const CONFIG = {
       from: '2016',
       to: '2020',
     },  ],
-  publications: [
+  //publications: [
  {
       title: '',
       conferenceName: '',
