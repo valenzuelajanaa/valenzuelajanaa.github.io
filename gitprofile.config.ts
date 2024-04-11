@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: '',
+    linkedin: 'www.linkedin.com/in/valenzuelajanaa',
     twitter: '',
     mastodon: '',
     researchGate: '',
@@ -80,7 +80,7 @@ const CONFIG = {
       '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PCR', 'Bioinformatics', 'Teaching'
+    'DNA Extractions', 'Gram Staining', 'Teaching', 'Plate Streaking',
   ],
   experiences: [
     {
